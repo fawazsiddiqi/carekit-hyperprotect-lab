@@ -1,3 +1,7 @@
+# Sign up for IBM Cloud at: https://ibm.biz/HyperProtectHIPAA
+
+# Slides: https://fawazsiddiqi.github.io/carekit-hyperprotect-lab
+
 ### Steps
 
 - [Account setup](#account-setup)
@@ -31,7 +35,7 @@ Goal : At the end of this section, you should have pre-requisite accounts needed
 
 **IBM Cloud Account:**
 
-An IBM Cloud Account is required for this lab. If you need to create one, please go to : https://cloud.ibm.com/registration and follow the prompts. Additional documentation can be found [here](https://cloud.ibm.com/docs/account?topic=account-signup)
+An IBM Cloud Account is required for this lab. If you need to create one, please go to: https://ibm.biz/HyperProtectHIPAA
 
 <br/>
 
